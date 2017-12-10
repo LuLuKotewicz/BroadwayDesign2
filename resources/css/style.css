@@ -12,6 +12,7 @@ h1 {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 70px;
   font-weight: bold;
+  color: white;
 }
 
 h2 {
@@ -31,7 +32,8 @@ p {
   font-size: 14px;
 }
 
-nav {
+nav a {
   font-family: Helvetica, Arial, sans-serif;
   font-size: 18px;
+  color: white;
 }
